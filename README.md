@@ -1,4 +1,4 @@
-# Server_Chat_Java
+# Server_Chat
   Server and Client Chat using Java.
   
 ## General info
